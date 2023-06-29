@@ -1,0 +1,2 @@
+[2023-06-29T21:10:26+0300] [WARNING] security - Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+[2023-06-29T21:10:26+0300] [WARNING] https://m.youtube.com/ 0 The key "" is not recognized and ignored.

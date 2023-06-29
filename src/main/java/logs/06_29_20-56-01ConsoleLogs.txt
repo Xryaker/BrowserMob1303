@@ -1,0 +1,1 @@
+[2023-06-29T17:55:46.627Z] [WARNING] security - Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
